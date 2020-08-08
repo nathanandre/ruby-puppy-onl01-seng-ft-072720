@@ -19,4 +19,4 @@ binding.pry
    def self.clear_all
      @@all.clear
    end
- end# Add your code here
+ end
