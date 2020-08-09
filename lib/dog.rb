@@ -13,7 +13,7 @@ class Dog
   def self.print_all
 binding.pry
     self.all.each do |pup|
-      puts pup
+      puts pup.name
     end
   end
    def self.clear_all
