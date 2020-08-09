@@ -12,7 +12,7 @@ class Dog
      @@all
    end
   def self.print_all
-binding.pry
+#binding.pry
     self.all.each do |pup|
       puts pup.name
     end
